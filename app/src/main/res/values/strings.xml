@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NoteToBerkayAltay</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Add</string>
+    <string name="title_hint">Title</string>
+    <string name="note_hint">Note</string>
+    <string name="description_hint">Description</string>
+    <string name="idea_text">Idea</string>
+    <string name="important_text">Important</string>
+    <string name="todo_text">To do</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="ok_button">OK</string>
+    <string name="settings_title">Settings</string>
+    <string name="theme_title">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="button_done">Done</string>
+    <string name="ok">Ok</string>
+    <string name="setting1">Setting1</string>
+    <string name="setting2">Setting2</string>
+    <string name="settings_menu_title">Settings</string>
+</resources>
